@@ -33,4 +33,3 @@ void quicksort(int arr[], int left, int right)
 		quicksort(arr, left, j); 
 	if (i < right) 
 		quicksort(arr, i, right); 
-} 

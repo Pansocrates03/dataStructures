@@ -1,11 +1,16 @@
-# Data Structures 
-This github repository has different data structures to help order information in C++.
-Each folder also contains a small usage example of the c++ classes.
-## Binary Search Tree
-## Double Linked List
-## Linked List
-A linked list is a linear data structure that includes a series of connected nodes. Here, each node stores the data and the address of the next node. For example,
-![Alt text](image.png)
-## Queue
-## Stack
-# dataStructures
+# Data Structures and Algorithms with C++
+Data structures and algorithms are fundamental concepts in computer science. Data structures are used to store and organize data in a structured way so that it can be easily accessed and manipulated. Algorithms are the set of instructions used to solve a problem. Both data structures and algorithms are essential for designing and coding efficient and complex computer programs.  
+Link: https://codeofcode.org/courses/data-structures-and-algorithms-with-cpp/
+
+## Data Structures
+Data structures provide a way to represent and manage data in a structured and organized manner, making it easier to perform various operations and tasks on the data.
+### Binary Search Tree
+### Double Linked List
+### Linked List
+### Queue
+### Stack
+
+## Sorting Algorithms
+There are various sorting algorithms, and they can be classified into several categories based on their methods, time complexity, and stability. There are various sorting algorithms, and they can be classified into several categories based on their methods, time complexity, and stability. Some of the commonly used sorting algorithms include:
+### QuickSearch
+### BubbleSort
